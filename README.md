@@ -1,5 +1,5 @@
 # Harnessing the Power of Advanced Deep Learning Techniques for Early Detection and Classifying Maize Leaf Diseases in Uganda
-# [Read The Reasearch Paper](https://www.ijbest.ac.ug/wp-content/uploads/2026/01/8.-Harnessing-the-Power-of-Advanced-Deep-learning.-Shongo-and-Abubakhari.pdf)
+# [Read The Reasearch Paper of this project](https://www.ijbest.ac.ug/wp-content/uploads/2026/01/8.-Harnessing-the-Power-of-Advanced-Deep-learning.-Shongo-and-Abubakhari.pdf)
 
 * Collaboration: [Makerere Artificial Intelligence Lab](https://air.ug), [Lacuna Fund](https://lacunafund.org/)
   
